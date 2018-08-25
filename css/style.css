@@ -46,7 +46,9 @@ p {
     background: pink;
     width: 150px;
     height: 150px;
-    margin-left: 500px;
+    margin-left: 300px;
+    position: absolute;
+    margin-top: 10px;
     
     
 }
